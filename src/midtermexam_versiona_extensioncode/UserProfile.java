@@ -13,6 +13,11 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+public class TestUserProfile {
+pubic static void main(String[] args){
+    
+}
+}
 public class UserProfile 
 {
     
